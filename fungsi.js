@@ -12,3 +12,6 @@ console.log(devide(4, 2));
 
 const mathSin = (number) => Math.sin(number);
 console.log(mathSin(10));
+
+const mathSin2 = (number) => Math.sin(number);
+console.log(mathSin2(5));
